@@ -1,0 +1,6 @@
+C:\Users\Marko\source\repos\WeatherPrognose\WeatherPrognose\bin\Debug\WeatherPrognose.dll
+C:\Users\Marko\source\repos\WeatherPrognose\WeatherPrognose\bin\Debug\WeatherPrognose.pdb
+C:\Users\Marko\source\repos\WeatherPrognose\WeatherPrognose\obj\Debug\WeatherPrognose.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\WeatherPrognose\WeatherPrognose\obj\Debug\WeatherPrognose.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\WeatherPrognose\WeatherPrognose\obj\Debug\WeatherPrognose.dll
+C:\Users\Marko\source\repos\WeatherPrognose\WeatherPrognose\obj\Debug\WeatherPrognose.pdb

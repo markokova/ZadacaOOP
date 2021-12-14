@@ -1,0 +1,10 @@
+C:\Users\Marko\source\repos\WeatherPrognose\WeatherUI\bin\Debug\WeatherUI.exe.config
+C:\Users\Marko\source\repos\WeatherPrognose\WeatherUI\bin\Debug\WeatherUI.exe
+C:\Users\Marko\source\repos\WeatherPrognose\WeatherUI\bin\Debug\WeatherUI.pdb
+C:\Users\Marko\source\repos\WeatherPrognose\WeatherUI\bin\Debug\WeatherPrognose.dll
+C:\Users\Marko\source\repos\WeatherPrognose\WeatherUI\bin\Debug\WeatherPrognose.pdb
+C:\Users\Marko\source\repos\WeatherPrognose\WeatherUI\obj\Debug\WeatherUI.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\WeatherPrognose\WeatherUI\obj\Debug\WeatherUI.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\WeatherPrognose\WeatherUI\obj\Debug\WeatherUI.csproj.CopyComplete
+C:\Users\Marko\source\repos\WeatherPrognose\WeatherUI\obj\Debug\WeatherUI.exe
+C:\Users\Marko\source\repos\WeatherPrognose\WeatherUI\obj\Debug\WeatherUI.pdb
